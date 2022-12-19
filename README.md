@@ -20,6 +20,8 @@ This game requires an internet connection to work with the Neurosity Crown.
 
 [Diego Saldivar](https://github.com/neurogamedev) Neuro Game Developer | Assistant Prof. of Interactive Media @ Noroff University College (Norway)
 
+[Faiyaz Ahmed](https://github.com/Faiyaz42)  Computing Science Student at the University of Alberta
+
 ## External Assets
 
 - Thanks to [AJ Keller](https://www.linkedin.com/in/andrewjaykeller/) and [Alex Castillo](https://www.linkedin.com/in/alexcas/) for the open source [Neurosity SDK](https://docs.neurosity.co/docs/overview). 
